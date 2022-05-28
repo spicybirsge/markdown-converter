@@ -8,6 +8,6 @@
 2. Enter your markdown text.
 3. You should see your text converted.
 
-# Selfhosting
+# Self Hosting
 
 - Fork this repo and github should automatically host it on github pages.
