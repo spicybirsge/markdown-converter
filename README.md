@@ -11,6 +11,7 @@
 # Self Hosting
 
 - Fork this repo and github should automatically host it on github pages.
+- Or create an account on https://pagenix.systems and use this template: https://pagenix.systems/dashboard/templates/64x3fC_b1R
 
 
 
