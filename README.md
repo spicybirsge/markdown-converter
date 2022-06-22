@@ -4,7 +4,7 @@
 
 # Get Started
 
-1. Head over to: https://spicybirsge.github.io/markdown-converter or https://pagenix.systems/markdowntohtml .
+1. Head over to: https://spicybirsge.github.io/markdown-converter .
 2. Enter your markdown text.
 3. You should see your text converted.
 
